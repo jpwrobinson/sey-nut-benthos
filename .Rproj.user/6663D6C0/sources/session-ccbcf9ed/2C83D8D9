@@ -1,0 +1,26 @@
+{
+    "id": "2C83D8D9",
+    "path": "~/Documents/git-repos/sey-nut-benthos/01_load.R",
+    "project_path": "01_load.R",
+    "type": "r_source",
+    "hash": "0",
+    "contents": "",
+    "dirty": true,
+    "created": 1754553854448.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "59,0",
+        "scrollLine": "35"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1754555835,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1754555865133,
+    "read_only": false,
+    "read_only_alternatives": []
+}
