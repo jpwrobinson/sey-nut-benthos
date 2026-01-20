@@ -7,7 +7,8 @@ theme_set(theme_classic())
 dat<-read_excel('data/ICP-OES_Mg-Kg Calculation_GF_Analysis_JR.xls') %>% 
   clean_names() %>% 
   pivot_longer(-c(sample_no, sample_name, site, site_abb, benthic_type, benthic_abb, notes),
-               names_to = 'element', values_to = 'value')
+               names_to = 'unit', values_to = 'value') %>% 
+  mutate(element = str_to_title(str_split_fixed(unit, '_', 3)[,1]))
 
 # inspecting clear outliers in histograms
 ggplot(dat, aes(value)) + geom_histogram() + 

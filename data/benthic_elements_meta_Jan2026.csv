@@ -1,0 +1,45 @@
+taxa,value,element,stat,unit,ref
+Sediment Organic Matter,2923,Fe,mean,μg·g,Briand et al. 2018
+Turf,654,Fe,mean,μg·g,Briand et al. 2018
+Macroalgae (calc),416.0,Fe,mean,μg·g,Briand et al. 2018
+Macroalgae (non calc),183.0,Fe,mean,μg·g,Briand et al. 2018
+Seagrass,1092.0,Fe,mean,μg·g,Briand et al. 2018
+Sediment Organic Matter,1245.3,Fe,mean,μg·g,Fey et al. 2019
+Turf,1750.7,Fe,mean,μg·g,Fey et al. 2019
+Macroalgae,1786.7,Fe,mean,μg·g,Fey et al. 2019
+Seagrass,760.0,Fe,mean,μg·g,Fey et al. 2019
+Soft corals,60.6,Fe,mean,ppm,Abedel-Aziz et al. 2010
+Sponge,29,Fe,min,mg/kg,Mayzel et al. 2014
+Sponge,2906,Fe,max,mg/kg,Mayzel et al. 2014
+Macroalgae,6.8,Fe,min,mg/100 g,Kumar et al. 2010
+Macroalgae,44.54,Fe,max,mg/100 g,Kumar et al. 2010
+Sediments,12.5,Zn,mean,mg/kg,Dehno et al. 2022
+Sediment Organic Matter,5.5,Zn,mean,μg·g,Briand et al. 2018
+Turf,15.1,Zn,mean,μg·g,Briand et al. 2018
+Macroalgae (calc),7.3,Zn,mean,μg·g,Briand et al. 2018
+Macroalgae (non calc),11.1,Zn,mean,μg·g,Briand et al. 2018
+Seagrass,13.5,Zn,mean,μg·g,Briand et al. 2018
+Sediment Organic Matter,15.4,Zn,mean,μg·g,Fey et al. 2019
+Turf,12.8,Zn,mean,μg·g,Fey et al. 2019
+Macroalgae,9.6,Zn,mean,μg·g,Fey et al. 2019
+Seagrass,14.2,Zn,mean,μg·g,Fey et al. 2019
+Soft corals,72.0,Zn,mean,ppm,Abedel-Aziz et al. 2010
+Seagrass,5,Zn,min,mg/kg,Bonanno & Oralndo 2018
+Seagrass,787,Zn,max,mg/kg,Bonanno & Oralndo 2018
+Macroalgae,2.81,Zn,min,mg/kg,Bonanno & Oralndo 2018
+Macroalgae,369,Zn,max,mg/kg,Bonanno & Oralndo 2018
+Sponge,9.6,Zn,min,mg/kg,Mayzel et al. 2014
+Sponge,1147,Zn,max,mg/kg,Mayzel et al. 2014
+Macroalgae,1.31,Zn,min,mg/100 g,Kumar et al. 2010
+Macroalgae,17.09,Zn,max,mg/100 g,Kumar et al. 2010
+Sediments,335.0,P,mean,ppm,Entsch et al. 
+Sediments,6.2,P,mean,umol/g,Joy et al. 2019
+Sediments,11.5,P,mean,umol/g,Vinithkumar et al. 1999
+Seagrass,118,P,mean,mg/100g,Immaculate et al. 2018
+Sediments,232.0,Ca,mean,mg/kg,Vinithkumar et al. 1999
+Seagrass,630,Ca,mean,mg/100g,Immaculate et al. 2018
+Sediments,7.92,K,mean,mg/kg,Vinithkumar et al. 1999
+Seagrass,361.3333333,K,mean,mg/100g,Immaculate et al. 2018
+Seagrass,951,Mg,mean,mg/100g,Immaculate et al. 2018
+Sediments,25.79,Na,mean,mg/kg,Vinithkumar et al. 1999
+Seagrass,756.3333333,Na,mean,mg/100g,Immaculate et al. 2018
